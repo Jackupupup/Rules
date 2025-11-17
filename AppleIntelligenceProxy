@@ -1,4 +1,6 @@
 #播客
+#apple ID
+DOMAIN,account.apple.com
 DOMAIN-SUFFIX,podcasts.apple.com
 #Apple Intelligence、Siri 和搜索
 DOMAIN,guzzoni.apple.com
