@@ -3,6 +3,7 @@
 DOMAIN,account.apple.com
 DOMAIN-SUFFIX,podcasts.apple.com
 #Apple Intelligence、Siri 和搜索
+DOMAIN,ios,chat.openai.com
 DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,apple-relay.cloudflare.com
