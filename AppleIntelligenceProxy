@@ -1,4 +1,10 @@
-#播客
+#专业代理
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-t.apple-dns.net
+DOMAIN,mask.apple-dns.net
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
 #apple ID
 DOMAIN,account.apple.com
 DOMAIN-SUFFIX,podcasts.apple.com
