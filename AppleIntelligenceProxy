@@ -1,5 +1,4 @@
-#apple ID
-DOMAIN,account.apple.com
+#apple 播客
 DOMAIN-SUFFIX,podcasts.apple.com
 #Apple Intelligence、Siri 和搜索
 DOMAIN,ios,chat.openai.com
